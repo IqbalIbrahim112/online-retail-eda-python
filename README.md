@@ -80,8 +80,9 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
 * **Tren Bulanan:** Penjualan menunjukkan pola musiman yang jelas, dengan peningkatan signifikan menjelang akhir tahun 2011.
     * **Bulan Tersibuk:** **November (£1.5 juta)** dan **Desember (£1.46 juta)** adalah puncak penjualan, kemungkinan besar karena musim belanja liburan.
     * Bulan terendah adalah Februari dan April.
-    ![Total Penjualan dari Waktu ke Waktu (Bulanan)](./images/image_60447b.png)
+    ![Total Penjualan dari Waktu ke Waktu (Bulanan)](./images/total_penjualan.png)
     *Bulan Tersibuk Berdasarkan Total Penjualan:*
+    ![Bulan Tersibuk Berdasarkan Total Penjualan](./images/Bulan Tersibuk Berdasarkan Total Penjualan.png)
     ```
     Month
     11    1503866.780
@@ -103,7 +104,7 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
     * **Hari Tersibuk:** **Kamis (£2.19 juta)** dan **Selasa (£2.17 juta)** adalah hari-hari dengan penjualan tertinggi.
     * **Minggu (£0.80 juta)** memiliki penjualan terendah di antara hari-hari beroperasi.
     * **Anomali Sabtu:** Tidak ada data transaksi yang tercatat untuk hari Sabtu, yang memerlukan investigasi.
-    ![Hari Tersibuk dalam Seminggu Berdasarkan Penjualan](./images/image_604458.png)
+    ![Hari Tersibuk dalam Seminggu Berdasarkan Penjualan](./images/hari_tersibuk.png)
     *Hari Tersibuk (berdasarkan Total Penjualan):*
     ```
     DayOfWeek
@@ -117,13 +118,13 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
     Name: TotalSales, dtype: float64
     ```
     * **Jam Puncak:** Jam puncak transaksi harian terjadi antara **pukul 10 pagi hingga 3 sore**.
-    ![Total Penjualan Berdasarkan Jam Transaksi](./images/image_604119.png)
+    *(Catatan: Gambar untuk Total Penjualan Berdasarkan Jam Transaksi tidak tersedia di folder `images` yang Anda berikan, sehingga tidak disertakan di sini untuk menghindari tautan rusak.)*
 
 ### Analisis Performa Produk
 
 * **Top 10 Produk Terlaris (berdasarkan Jumlah Terjual):**
     * `PAPER CRAFT , LITTLE BIRDIE` (80.995 unit) dan `MEDIUM CERAMIC TOP STORAGE JAR` (78.033 unit) adalah produk dengan volume penjualan tertinggi.
-    ![Top 10 Produk Terlaris berdasarkan Jumlah Terjual](./images/image_6040f7.png)
+    ![Top 10 Produk Terlaris berdasarkan Jumlah Terjual](./images/top_10_terjual.png)
     ```
     Description
     PAPER CRAFT , LITTLE BIRDIE           80995
@@ -141,7 +142,7 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
 
 * **Top 10 Produk Terlaris (berdasarkan Total Pendapatan):**
     * `DOTCOM POSTAGE` (£206.248) dan `REGENCY CAKESTAND 3 TIER` (£174.156) adalah kontributor pendapatan terbesar. Perhatikan bahwa biaya pengiriman juga merupakan sumber pendapatan yang signifikan.
-    ![Top 10 Produk Terlaris berdasarkan Total Pendapatan](./images/image_6040d7.png)
+    ![Top 10 Produk Terlaris berdasarkan Total Pendapatan](./images/top_10_pendapatan.png)
     ```
     Description
     DOTCOM POSTAGE                        206248.77
@@ -161,14 +162,14 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
 
 * **Dominasi Pasar:** **United Kingdom** adalah pasar utama, menyumbang mayoritas mutlak dari total penjualan dan jumlah transaksi.
 * **Kontribusi Negara Lain:** Negara-negara Eropa lainnya (seperti Jerman, Prancis, EIRE, Belanda) memberikan kontribusi penting, meskipun dalam skala yang jauh lebih kecil.
-![Top 10 Negara berdasarkan Total Penjualan](./images/image_6044b3.png)
-![Top 10 Negara berdasarkan Jumlah Transaksi](./images/image_60409d.png)
+    ![Top 10 Negara berdasarkan Total Penjualan](./images/top_10_negara_transkasi.png) *(Catatan: Gambar ini diasumsikan merepresentasikan "Top 10 Negara berdasarkan Total Penjualan" berdasarkan nama file yang tersedia.)*
+    *(Catatan: Gambar untuk "Top 10 Negara berdasarkan Jumlah Transaksi" tidak tersedia di folder `images` yang Anda berikan, sehingga tidak disertakan di sini untuk menghindari tautan rusak.)*
 
 ### Identifikasi Outlier & Anomali
 
 * **Outlier `Quantity` & `UnitPrice`:** Dataset mengandung sejumlah outlier signifikan pada kolom `Quantity` (5.17%) dan `UnitPrice` (7.21%). Ini bisa merepresentasikan pembelian grosir, produk bernilai tinggi, atau potensi kesalahan input data.
-    ![Box Plot Jumlah Barang (Quantity)](./images/image_603df1.png)
-    ![Box Plot Harga Satuan (Unit Price)](./images/image_603ded.png)
+    ![Box Plot Jumlah Barang (Quantity)](./images/boxplot_barang.png)
+    ![Box Plot Harga Satuan (Unit Price)](./images/boxplot_harga.png)
     ```
     Outlier Statistik untuk Quantity:
     Jumlah Outlier pada Quantity (Metode IQR): 27111
