@@ -13,10 +13,7 @@
     * [Analisis Geografi & Pelanggan](#analisis-geografi--pelanggan)
     * [Identifikasi Outlier & Anomali](#identifikasi-outlier--anomali)
 5.  [Rekomendasi Bisnis](#5-rekomendasi-bisnis)
-6.  [Cara Menjalankan Proyek](#6-cara-menjalankan-proyek)
-7.  [Prasyarat](#7-prasyarat)
-8.  [Lisensi](#8-lisensi)
-9.  [Kontak](#9-kontak)
+6.  [Kontak](#6-kontak)
 
 ---
 
