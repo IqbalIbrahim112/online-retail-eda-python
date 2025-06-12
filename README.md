@@ -81,6 +81,7 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
     * **Bulan Tersibuk:** **November (£1.5 juta)** dan **Desember (£1.46 juta)** adalah puncak penjualan, kemungkinan besar karena musim belanja liburan.
     * Bulan terendah adalah Februari dan April.
     ![Bulan Tersibuk Berdasarkan Total Penjualan](./images/bulan_tersibuk.png)
+    
     *Bulan Tersibuk Berdasarkan Total Penjualan:*
     ```
     Month
