@@ -80,9 +80,8 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
 * **Tren Bulanan:** Penjualan menunjukkan pola musiman yang jelas, dengan peningkatan signifikan menjelang akhir tahun 2011.
     * **Bulan Tersibuk:** **November (£1.5 juta)** dan **Desember (£1.46 juta)** adalah puncak penjualan, kemungkinan besar karena musim belanja liburan.
     * Bulan terendah adalah Februari dan April.
-    ![Total Penjualan dari Waktu ke Waktu (Bulanan)](./images/total_penjualan.png)
+    ![Bulan Tersibuk Berdasarkan Total Penjualan](./images/bulan_tersibuk.png)
     *Bulan Tersibuk Berdasarkan Total Penjualan:*
-    ![Bulan Tersibuk Berdasarkan Total Penjualan](./images/Bulan Tersibuk Berdasarkan Total Penjualan.png)
     ```
     Month
     11    1503866.780
