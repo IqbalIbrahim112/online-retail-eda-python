@@ -163,7 +163,8 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
 
 * **Dominasi Pasar:** **United Kingdom** adalah pasar utama, menyumbang mayoritas mutlak dari total penjualan dan jumlah transaksi.
 * **Kontribusi Negara Lain:** Negara-negara Eropa lainnya (seperti Jerman, Prancis, EIRE, Belanda) memberikan kontribusi penting, meskipun dalam skala yang jauh lebih kecil.
-    ![Top 10 Negara berdasarkan Total Penjualan](./images/top_10_negara_tranksaksi.png) *
+
+  ![Top 10 Negara berdasarkan Total Penjualan](./images/top_10_negara_tranksaksi.png) *
 
 ### Identifikasi Outlier & Anomali
 
@@ -204,47 +205,12 @@ Berdasarkan temuan di atas, berikut adalah rekomendasi tindakan yang dapat diimp
 5.  **Perencanaan Bisnis Strategis:**
     * Manfaatkan wawasan tentang tren musiman untuk perencanaan stok yang akurat, penjadwalan staf, dan alokasi anggaran pemasaran yang efisien, terutama untuk menghadapi lonjakan permintaan di Q4.
 
-## 6. Cara Menjalankan Proyek
-
-Untuk menjalankan proyek ini secara lokal:
-
-1.  **Clone repositori:**
-    ```bash
-    git clone [https://github.com/YourUsername/online-retail-eda-python.git](https://github.com/YourUsername/online-retail-eda-python.git)
-    cd online-retail-eda-python
-    ```
-2.  **Siapkan virtual environment (opsional tapi direkomendasikan):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: `venv\Scripts\activate`
-    ```
-3.  **Instal library yang diperlukan:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn openpyxl
-    ```
-    *Catatan: `openpyxl` diperlukan untuk membaca file `.xlsx`.*
-4.  **Buka Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-5.  Buka file `Online_Retail_EDA.ipynb` (atau nama file notebook Anda) dan jalankan sel-selnya secara berurutan.
-
-## 7. Prasyarat
-
-* Python 3.x
-* Jupyter Notebook
-* Library Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `openpyxl`
-
-## 8. Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
-
-## 9. Kontak
+## 6. Kontak
 
 Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi:
 
 * **Nama Anda**
-* [Profil LinkedIn Anda](https://www.linkedin.com/in/your-linkedin-profile/)
-* [Email Anda](mailto:your.email@example.com)
+* [Profil LinkedIn Anda](www.linkedin.com/in/iqbaltriwicaksono)
+* [Email Anda](iqbaltriwicaksono112@gmail.com)
 
 ---
