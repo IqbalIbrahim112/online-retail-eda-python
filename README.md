@@ -105,6 +105,7 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
     * **Minggu (£0.80 juta)** memiliki penjualan terendah di antara hari-hari beroperasi.
     * **Anomali Sabtu:** Tidak ada data transaksi yang tercatat untuk hari Sabtu, yang memerlukan investigasi.
     ![Hari Tersibuk dalam Seminggu Berdasarkan Penjualan](./images/hari_tersibuk.png)
+    
     *Hari Tersibuk (berdasarkan Total Penjualan):*
     ```
     DayOfWeek
@@ -162,8 +163,7 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
 
 * **Dominasi Pasar:** **United Kingdom** adalah pasar utama, menyumbang mayoritas mutlak dari total penjualan dan jumlah transaksi.
 * **Kontribusi Negara Lain:** Negara-negara Eropa lainnya (seperti Jerman, Prancis, EIRE, Belanda) memberikan kontribusi penting, meskipun dalam skala yang jauh lebih kecil.
-    ![Top 10 Negara berdasarkan Total Penjualan](./images/top_10_negara_transkasi.png) *(Catatan: Gambar ini diasumsikan merepresentasikan "Top 10 Negara berdasarkan Total Penjualan" berdasarkan nama file yang tersedia.)*
-    *(Catatan: Gambar untuk "Top 10 Negara berdasarkan Jumlah Transaksi" tidak tersedia di folder `images` yang Anda berikan, sehingga tidak disertakan di sini untuk menghindari tautan rusak.)*
+    ![Top 10 Negara berdasarkan Total Penjualan](./images/top_10_negara_tranksasi.png) *
 
 ### Identifikasi Outlier & Anomali
 
