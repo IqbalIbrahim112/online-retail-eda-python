@@ -1,12 +1,5 @@
 # Online Retail Exploratory Data Analysis with Python
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-lightgrey.svg)
-![NumPy](https://img.shields.io/badge/NumPy-orange.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-red.svg)
-![Seaborn](https://img.shields.io/badge/Seaborn-purple.svg)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-
 ## Daftar Isi
 
 1.  [Pendahuluan Proyek](#1-pendahuluan-proyek)
