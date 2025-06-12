@@ -199,7 +199,7 @@ Berdasarkan temuan di atas, berikut adalah rekomendasi tindakan yang dapat diimp
 
 Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi:
 
-* **Iqbal Triwicaksono Ibrahim**)
+* **Iqbal Triwicaksono Ibrahim**
 * [Profil LinkedIn Saya](https://www.linkedin.com/in/iqbaltriwicaksono)
 * [Email Saya](mailto:iqbaltriwicaksono112@gmail.com)
 ---
