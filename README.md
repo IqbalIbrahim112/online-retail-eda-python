@@ -100,7 +100,7 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
     Name: TotalSales, dtype: float64
     ```
 
-* **Tren Harian & Jam-jaman:**
+* **Tren Harian:**
     * **Hari Tersibuk:** **Kamis (£2.19 juta)** dan **Selasa (£2.17 juta)** adalah hari-hari dengan penjualan tertinggi.
     * **Minggu (£0.80 juta)** memiliki penjualan terendah di antara hari-hari beroperasi.
     * **Anomali Sabtu:** Tidak ada data transaksi yang tercatat untuk hari Sabtu, yang memerlukan investigasi.
@@ -163,7 +163,7 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
 
 * **Dominasi Pasar:** **United Kingdom** adalah pasar utama, menyumbang mayoritas mutlak dari total penjualan dan jumlah transaksi.
 * **Kontribusi Negara Lain:** Negara-negara Eropa lainnya (seperti Jerman, Prancis, EIRE, Belanda) memberikan kontribusi penting, meskipun dalam skala yang jauh lebih kecil.
-    ![Top 10 Negara berdasarkan Total Penjualan](./images/top_10_negara_tranksasi.png) *
+    ![Top 10 Negara berdasarkan Total Penjualan](./images/top_10_negara_tranksaksi.png) *
 
 ### Identifikasi Outlier & Anomali
 
