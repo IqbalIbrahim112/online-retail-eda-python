@@ -109,7 +109,6 @@ Proyek ini melalui beberapa tahapan analisis data, yang diringkas di bawah ini:
     Name: TotalSales, dtype: float64
     ```
     * **Jam Puncak:** Jam puncak transaksi harian terjadi antara **pukul 10 pagi hingga 3 sore**.
-    *(Catatan: Gambar untuk Total Penjualan Berdasarkan Jam Transaksi tidak tersedia di folder `images` yang Anda berikan, sehingga tidak disertakan di sini untuk menghindari tautan rusak.)*
 
 ### Analisis Performa Produk
 
